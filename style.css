@@ -16,5 +16,39 @@
     color: white;
     padding: 5px 10px;
     border-radius: 5px;
+}
 
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+    
+}
+.cat2{
+    background-color: deeppink;
+}
+.cat3{
+    background-color: orchid;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
 }
